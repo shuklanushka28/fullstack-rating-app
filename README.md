@@ -6,7 +6,7 @@ This platform enables users to register, log in, and rate stores on a scale of 1
 - **Normal Users** can search for stores, view existing ratings, and submit or update their own ratings.
 - **Store Owners** can view the users who rated their stores and analyze their store’s average rating.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Frontend**: ReactJS
 - **Backend**: ExpressJS
